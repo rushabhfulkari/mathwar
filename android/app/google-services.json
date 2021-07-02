@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175386692574",
+    "project_id": "mathwar-f8bed",
+    "storage_bucket": "mathwar-f8bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175386692574:android:88d551ea75cf56516beb4f",
+        "android_client_info": {
+          "package_name": "com.dts.mathwar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175386692574-vvd44bqnqcq2cbflptcn88id650idqf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8atle1YsTYsjTtGVQbQtRz9LWjHnYs1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175386692574-vvd44bqnqcq2cbflptcn88id650idqf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
